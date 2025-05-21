@@ -12,5 +12,5 @@ Light and semi-bold variations
 
 
 <p align="center">
-  <img src="rhino-logo_horn-i.png" alt="rhino-logo" width="300"/>
+  <img src="rhino-logo.png" alt="rhino-logo" width="300"/>
 </p>
