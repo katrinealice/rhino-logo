@@ -6,9 +6,7 @@ Background colour:	c52333ff
 Eye colour:		870000ff
 
 ## Font
-Josefin Sans (free font https://fonts.google.com/specimen/Josefin+Sans )
-
-Light and semi-bold variations
+Modified version Josefin Sans (free font https://fonts.google.com/specimen/Josefin+Sans ) using the light and semi-bold variations
 
 
 <p align="center">
